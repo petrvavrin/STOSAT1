@@ -5,7 +5,7 @@ Solar battery charging, ESP-07 module, SDHC storage.
 
 ## Schema
 The schematic is drawn in EAGLE, [here](STOSAT1_EAGLE_2.1) is the complete EAGLE project.
-![STOSAT1 wiring diagram](STOSAT1_wiring diagram.jpg)
+![STOSAT1_wiring_diagram](STOSAT1_wiring diagram.jpg)
 
 ## Compilation
 The firmware is written in PlatformIO.
