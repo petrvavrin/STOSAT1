@@ -1,5 +1,5 @@
 # STOSAT1
-### !!The project is under development!!
+### Project Status: **Under Development**
 
 **STO**-Storage **SAT**-Satellite **1**
 
